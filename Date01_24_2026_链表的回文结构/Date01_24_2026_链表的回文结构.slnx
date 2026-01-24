@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Date01_24_2026_链表的回文结构/Date01_24_2026_链表的回文结构.vcxproj" />
+</Solution>

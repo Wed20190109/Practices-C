@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Date01_24_2026_返回倒数第k个节点/Date01_24_2026_返回倒数第k个节点.vcxproj" />
+</Solution>

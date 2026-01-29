@@ -75,13 +75,13 @@ listB 中节点数目为 n
 
 
 
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     struct ListNode *next;
- * };
- */
+
+ //Definition for singly-linked list.
+ struct ListNode {
+     int val;
+    struct ListNode *next;
+};
+ 
 struct ListNode* getIntersectionNode(struct ListNode* headA, struct ListNode* headB) 
 {
     struct ListNode* curA = headA;

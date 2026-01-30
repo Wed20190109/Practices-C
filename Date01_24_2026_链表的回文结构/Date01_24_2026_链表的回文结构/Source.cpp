@@ -11,12 +11,12 @@
 ·µ»Ø£ºtrue
 */
 
-/*
+
 struct ListNode {
     int val;
     struct ListNode *next;
     ListNode(int x) : val(x), next(NULL) {}
-};*/
+};
 class PalindromeList {
 public:
     bool chkPalindrome(ListNode* A) {

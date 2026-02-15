@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Codes\\Practices-C\\Date02_15_2026_\u7528\u961F\u5217\u5B9E\u73B0\u6808\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8F48BE-D427-4D50-AC02-BF69139B32EF}|Date02_15_2026_\u7528\u961F\u5217\u5B9E\u73B0\u6808\\Date02_15_2026_\u7528\u961F\u5217\u5B9E\u73B0\u6808.vcxproj|C:\\Codes\\Practices-C\\Date02_15_2026_\u7528\u961F\u5217\u5B9E\u73B0\u6808\\Date02_15_2026_\u7528\u961F\u5217\u5B9E\u73B0\u6808\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC8F48BE-D427-4D50-AC02-BF69139B32EF}|Date02_15_2026_\u7528\u961F\u5217\u5B9E\u73B0\u6808\\Date02_15_2026_\u7528\u961F\u5217\u5B9E\u73B0\u6808.vcxproj|solutionrelative:Date02_15_2026_\u7528\u961F\u5217\u5B9E\u73B0\u6808\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Codes\\Practices-C\\Date02_15_2026_\u7528\u961F\u5217\u5B9E\u73B0\u6808\\Date02_15_2026_\u7528\u961F\u5217\u5B9E\u73B0\u6808\\Source.c",
+              "RelativeDocumentMoniker": "Date02_15_2026_\u7528\u961F\u5217\u5B9E\u73B0\u6808\\Source.c",
+              "ToolTip": "C:\\Codes\\Practices-C\\Date02_15_2026_\u7528\u961F\u5217\u5B9E\u73B0\u6808\\Date02_15_2026_\u7528\u961F\u5217\u5B9E\u73B0\u6808\\Source.c",
+              "RelativeToolTip": "Date02_15_2026_\u7528\u961F\u5217\u5B9E\u73B0\u6808\\Source.c",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-15T03:17:55.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Date02_15_2026_用队列实现栈/Date02_15_2026_用队列实现栈.vcxproj" />
+</Solution>
